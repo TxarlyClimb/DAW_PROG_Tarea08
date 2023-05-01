@@ -1,4 +1,4 @@
-//Empaqueto en PROG07_Principal
+//Empaqueto en PROG08_Principal
 package PROG08_Principal;
 
 import java.util.ArrayList; //Importamos la clase para modificar de array a ArrayList
